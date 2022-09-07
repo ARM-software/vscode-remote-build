@@ -1,0 +1,51 @@
+[
+    {
+        "name": "buffer",
+        "version": "5.7.1",
+        "spdx": "MIT",
+        "url": "https://github.com/feross/buffer",
+        "license": "https://github.com/feross/buffer/blob/master/LICENSE"
+    },
+    {
+        "name": "fetch-blob",
+        "version": "3.2.0",
+        "spdx": "MIT",
+        "url": "https://github.com/node-fetch/fetch-blob",
+        "license": "https://github.com/node-fetch/fetch-blob/blob/main/LICENSE"
+    },
+    {
+        "name": "formdata-polyfill",
+        "version": "4.0.10",
+        "spdx": "MIT",
+        "url": "https://github.com/jimmywarting/FormData",
+        "license": "https://github.com/jimmywarting/FormData/blob/master/LICENSE"
+    },
+    {
+        "name": "jszip",
+        "version": "3.7.1",
+        "spdx": "MIT",
+        "url": "https://github.com/Stuk/jszip",
+        "license": "https://github.com/Stuk/jszip/blob/master/LICENSE.markdown"
+    },
+    {
+        "name": "node-fetch",
+        "version": "2.6.7",
+        "spdx": "MIT",
+        "url": "https://github.com/node-fetch/node-fetch",
+        "license": "https://github.com/node-fetch/node-fetch/blob/master/LICENSE.md"
+    },
+    {
+        "name": "path-browserify",
+        "version": "1.0.1",
+        "spdx": "MIT",
+        "url": "https://github.com/browserify/path-browserify",
+        "license": "https://github.com/browserify/path-browserify/blob/master/LICENSE"
+    },
+    {
+        "name": "vscode-extension-telemetry",
+        "version": "0.6.2",
+        "spdx": "MIT",
+        "url": "https://github.com/microsoft/vscode-extension-telemetry",
+        "license": "https://github.com/microsoft/vscode-extension-telemetry/blob/main/LICENSE"
+    }
+]
