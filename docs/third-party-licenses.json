@@ -42,6 +42,13 @@
         "license": "https://github.com/browserify/path-browserify/blob/master/LICENSE"
     },
     {
+        "name": "querystring-es3",
+        "version": "0.2.1",
+        "spdx": "MIT",
+        "url": "https://github.com/mike-spainhower/querystring",
+        "license": "https://github.com/mike-spainhower/querystring/blob/master/License.md"
+    },
+    {
         "name": "vscode-extension-telemetry",
         "version": "0.6.2",
         "spdx": "MIT",
