@@ -54,5 +54,12 @@
         "spdx": "MIT",
         "url": "https://github.com/microsoft/vscode-extension-telemetry",
         "license": "https://github.com/microsoft/vscode-extension-telemetry/blob/main/LICENSE"
+    },
+    {
+        "name": "vscode-uri",
+        "version": "3.0.3",
+        "spdx": "MIT",
+        "url": "https://github.com/microsoft/vscode-uri",
+        "license": "https://github.com/microsoft/vscode-uri/blob/main/LICENSE.md"
     }
 ]
