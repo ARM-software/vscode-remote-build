@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.5.4
+
+- Improved build process for remote builds
+
 ## 0.5.1
 
 - Changes to command execution
