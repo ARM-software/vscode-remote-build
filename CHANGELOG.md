@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.5.5
+
+- Added `artifactsPath` parameter to CMSIS build task
+
 ## 0.5.4
 
 - Improved build process for remote builds
