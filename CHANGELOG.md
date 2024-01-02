@@ -1,5 +1,13 @@
 # Change Log
 
+## Unreleased
+
+## 0.5.9
+
+## 0.5.8
+
+- Exposed API for intellisense database generation
+
 ## 0.5.5
 
 - Added `artifactsPath` parameter to CMSIS build task
