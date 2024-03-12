@@ -2,9 +2,9 @@
 
 ## Overview
 
-This extension allows you to undertake remote builds of projects for Arm Cortex-M based microcontrollers.
+This extension allows you to undertake remote builds of projects for Arm® Cortex®-M based microcontrollers.
 
-**Note**: The **Arm Remote Build** extension is experimental. An authentication token is required to access the service.
+**Note**: The Arm Remote Build extension is experimental. An authentication token is required to access the service.
 
 ## Install the extension
 

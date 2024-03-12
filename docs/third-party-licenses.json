@@ -49,6 +49,13 @@
         "license": "https://github.com/mike-spainhower/querystring/blob/master/License.md"
     },
     {
+        "name": "semver",
+        "version": "7.5.4",
+        "spdx": "ISC",
+        "url": "https://github.com/npm/node-semver",
+        "license": "https://github.com/npm/node-semver/blob/main/LICENSE"
+    },
+    {
         "name": "vscode-extension-telemetry",
         "version": "0.6.2",
         "spdx": "MIT",
