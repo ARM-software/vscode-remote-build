@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 0.5.14
+
+- Added support for selection of build tool and toolchain using semver
+
 ## 0.5.13
 
 ## 0.5.12
