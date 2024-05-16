@@ -2,6 +2,13 @@
 
 ## Unreleased
 
+## 0.5.16
+
+## 0.5.15
+
+- Added support for intellisense generation for csolution
+- Improved build output reporting
+
 ## 0.5.14
 
 - Added support for selection of build tool and toolchain using semver
