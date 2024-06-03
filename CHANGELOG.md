@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 0.5.17
+
+- Fixed API types for intellisense
+
 ## 0.5.16
 
 ## 0.5.15
