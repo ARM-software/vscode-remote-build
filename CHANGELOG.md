@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+## 0.5.20
+
 ## 0.5.19
 
 - Ignore patch version for cmsis toolbox
