@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 0.5.21
+
+- Added support for csolution remote builds
+
 ## 0.5.20
 
 ## 0.5.19
