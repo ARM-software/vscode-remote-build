@@ -2,6 +2,12 @@
 
 ## Unreleased
 
+## 0.5.22
+
+- Added Mbed build task
+- Added `downloadPath` property in Mbed build task
+- Disabled Explorer refresh after Mbed build
+
 ## 0.5.21
 
 - Added support for csolution remote builds
